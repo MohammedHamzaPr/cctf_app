@@ -1,16 +1,69 @@
-# cctf_app
+# CCTF Community
 
-A new Flutter project.
+CCTF Community is a Flutter mobile application designed for the CCTF educational community. The application provides students with easy access to courses, instructors, announcements, and community resources from a modern and user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* View the latest announcements.
+* Browse community courses.
+* View instructors and their specializations.
+* Community statistics section.
+* Main sections navigation.
+* Modern dark UI design.
+* Responsive design for different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Planned Features
+
+* Dynamic content using JSON files hosted on GitHub.
+* Course details pages.
+* Instructor profiles.
+* Community links section.
+* Notifications system.
+* Search functionality.
+
+## Screenshots
+
+Screenshots will be added soon.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MohammedHamzaPr/cctf_app.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd cctf_app
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## Author
+
+Mohammed Hamza
+
+* GitHub: https://github.com/MohammedHamzaPr
+* Community: CCTF Community
+
+## License
+
+This project is created for educational purposes and community learning.
